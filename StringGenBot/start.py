@@ -27,7 +27,7 @@ async def start(bot: Client, msg: Message):
                 ],
                 [
                     InlineKeyboardButton("⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️", url="https://t.me/Sanatanixbotsupport"),
-                    InlineKeyboardButton("⚡️𝗥𝗔𝗛𝗨𝗟-𝗝𝗕⚡️", url="https://t.me/RAHULSJB")
+                    InlineKeyboardButton("⚡️𝗢𝗪𝗡𝗘𝗥⚡️", url="https://t.me/RAHULSJB")
                 ]
             ]
         ),
